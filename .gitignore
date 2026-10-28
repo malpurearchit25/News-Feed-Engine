@@ -1,0 +1,16 @@
+/build/
+/work/
+/data/*.txt
+!/data/.gitkeep
+news_feed
+phase9_tests
+*.exe
+*.o
+*.obj
+*.pdb
+.DS_Store
+__MACOSX/
+.vs/
+.vscode/
+.env
+.env.*
